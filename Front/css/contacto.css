@@ -1,0 +1,9 @@
+button {
+    margin: auto;
+      background: #E91E63;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
